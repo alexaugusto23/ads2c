@@ -1,0 +1,4 @@
+Escopo: 
+
+A empresa X precisava desenvolver o carro voador. Para viagens rápidas
+com passageiros por até 10 dolares por viagem.
