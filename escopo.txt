@@ -2,3 +2,42 @@ Escopo:
 
 A empresa X precisava desenvolver o carro voador. Para viagens rápidas
 com passageiros por até 10 dolares por viagem.
+
+Analise: 
+- O sistema deve realizar viagens de no máximo 15 km, o aplicativo
+vai fornecera pontos onde o cliente pode pegar o veiculo, cliente informa
+o destino e o aplicativo traça o percurso, fornecera também o tempo de 
+espera no momento que o cliente solicita a viagem, valores são calculados
+simultaneamento ao trajeto(calculo dinamico de acordo com horario, 
+quantidade de usuário e disponibilidade de veiculos). em todas as 
+hipotese não ultrapassa kilometragem máxima de 15 km ou preço de 10 dolares.
+- Modelos de carros autonomos - Lilium the jet com 100 unidade testadas, 
+pode carregar até 5 pessoase voa 100 km por hora, capacidade de pousar e 
+decolar verticalmente, nosso sitema se comunica automaticamente com o 
+sistema do carro fornecendo o trajetos.
+- Cadastro dos usuarios via app
+- Indentificação do usuarios via autenticação de dois fatores 
+(sms, e aproximação do veiculo)
+
+ 
+Design:
+- O sistema vai utilizar uma interface leve, com foto do usuario, conta de login
+janela de mapa do trajeto. 
+
+Codificação:
+- Sera realizada em python
+- Webservice comtele - sms
+
+Teste: 
+
+- Verifica se o trajeto está correto dentro da kilometragem permitida
+- Vefifica se os valores foram calculados corretamente e se estão 
+dentro do valor de 10 dolares
+- Verifica a identificação dos usuários 
+
+Operação:
+
+- Correção da falhas
+- manutenção
+
+
