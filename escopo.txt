@@ -11,6 +11,9 @@ espera no momento que o cliente solicita a viagem, valores são calculados
 simultaneamento ao trajeto(calculo dinamico de acordo com horario, 
 quantidade de usuário e disponibilidade de veiculos). em todas as 
 hipotese não ultrapassa kilometragem máxima de 15 km ou preço de 10 dolares.
+(Optamos por restringir a kilometragem para viabilizar o custo da viagem 
+para enqudar o valor máximo de 10 dolares e ainda obter lucro.)
+
 - Modelos de carros autonomos - Lilium the jet com 100 unidade testadas, 
 pode carregar até 5 pessoase voa 100 km por hora, capacidade de pousar e 
 decolar verticalmente, nosso sitema se comunica automaticamente com o 
@@ -25,7 +28,8 @@ Design:
 janela de mapa do trajeto. 
 
 Codificação:
-- Sera realizada em python
+- Sera realizada em python (escolhemos essa liguagem por termos maior domínio 
+sobre ela e ter boa aceitabilidade em aplicativos)
 - Webservice comtele - sms
 
 Teste: 
