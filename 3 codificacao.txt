@@ -1,0 +1,11 @@
+
+- Sera realizada em python (escolhemos essa liguagem por termos maior domínio
+sobre ela e ter boa aceitabilidade em aplicativos e demais sistemas);
+- Utilizar o Webservice comtele para SMS;
+- Utilizar o Git e Github para controlar os versionamentos do nosso aplicativo;
+- Utilizar API SDK para que o aplicativo possa trabalhar com android;
+- Utilizar a IDE Visual Studio Code;
+- Utilizar regras de gerenciamento de identidades e acessos (IAM);
+- Certificados gerenciados SSL/TLS;
+- Escalonamento será automático através do app Engine.
+
