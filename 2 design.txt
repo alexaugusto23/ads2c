@@ -1,0 +1,9 @@
+- O sistema vai utilizar uma interface leve, com foto do usuario, conta de login
+janela de mapa do trajeto.
+- Nosso aplicativo terá um design responsivo se ajustando a todos os formatos de tela.
+- Dados: disponibilizará de um banco de dados com modelo relacional, onde o minimundo proporcionará uma estrutura que posssibilite o armazenamento dos dados de forma coerente ao negócio.
+- Para o gerenciamento dos dados será utilizado o SQL Server;
+- Formulários: Serão utilizados para coleta de dados como por exemplo cadastro, reports, dashboards. 
+- Desenvolver um aplicativo que seja escalonável a quantidade de requisições de usuários;
+- Utilizar como servidor AWS Amazon;
+- Utilizar o app Engine.
