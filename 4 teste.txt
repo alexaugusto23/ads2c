@@ -20,4 +20,4 @@ dentro do valor estipulado de 10 dólares;
 - Teste de performance para carga, stress e estabilidade;
 - Teste de usabilidade;
 - Teste de caixa branca e preta.
-- Manutenção.
+- Manutenção..
