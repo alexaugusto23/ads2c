@@ -1,0 +1,23 @@
+
+- Verificar se os valores foram calculados corretamente e se estão
+dentro do valor estipulado de 10 dólares;
+- Verificar se o cadastro foi feito corretamente e se os dados são válidos;
+- Testar se os SMSs chegam em até 2 minutos antes do início da corrida;
+- Testar se o código digitado para liberar a corrida será validado corretamente;
+- testar se o veículo fará corretamente o percurso traçado e na velocidade programada;
+- Testar login dos usuários quando eles logarem;
+- Testar escabilidade do sistema;
+- Testar responsividade aos formatos de telas;
+- Testes exaustivos de segurança para garantir a integridade de ataques cibernéticos;
+- Testes de comunicação entre aplicativo e carro autonômo;
+- Teste de logs;
+- Teste funcional;
+- Teste de integridade;
+- Teste de configuração;
+- Teste de componentes;
+- Teste de carregamento de arquivos;
+- Teste de volume;
+- Teste de performance para carga, stress e estabilidade;
+- Teste de usabilidade;
+- Teste de caixa branca e preta.
+- Manutenção.
