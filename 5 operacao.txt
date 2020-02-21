@@ -1,0 +1,11 @@
+-Implantação através de um servidor estável;
+- Correção de falhas;
+- manutenção;
+- Instalador automático de webservices;
+- Testar conexão de banco de dados;
+- Agendador de processos automáticos;
+- Configuração de permissões e acessos a partir do aplicativo;
+- Verificar se há algum impedimento para o usuário efetuar o login;
+- Configuração de rotinas e integração, sistema e aplicativos;
+- Conferências de aprovações e pendências, de acordo com cada rotina;
+- Edição de regras e sincronização entre aplicativo e demais plataformas.
